@@ -1,2 +1,1 @@
 # ekart
-po ra pukaaaa
